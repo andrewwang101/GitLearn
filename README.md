@@ -1,3 +1,4 @@
 # Practicing Git
  - Push Test
- - F
+ - Fetch Test
+ 
